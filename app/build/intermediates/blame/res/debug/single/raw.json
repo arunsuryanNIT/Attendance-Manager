@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\welcome.mp3",
+        "source": "D:\\AndroidStudioProjects\\AttendanceManager\\app\\src\\main\\res\\raw\\welcome.mp3"
+    },
+    {
+        "merged": "E:\\Training\\AndroidStudioProjects\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\welcome.mp3",
+        "source": "E:\\Training\\AndroidStudioProjects\\AttendanceManager\\app\\src\\main\\res\\raw\\welcome.mp3"
+    }
+]

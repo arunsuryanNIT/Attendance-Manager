@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.suryan.arun.attendancemanager.adlog"
+    android:background="#FF7043">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:id="@+id/imageView2"
+                android:src="@drawable/point"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="68dp" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Faculty"
+        android:id="@+id/button4"
+        android:textColor="#FAFAFA"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="times new roman"
+        android:textStyle="bold"
+        android:elevation="10dp"
+        android:theme="@style/MyButton"
+        android:layout_marginTop="231dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Student"
+        android:id="@+id/button3"
+        android:textColor="#FAFAFA"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="times new roman"
+        android:elevation="4dp"
+        android:theme="@style/MyButton"
+        android:layout_marginTop="86dp"
+        android:layout_below="@+id/button4"
+        android:layout_alignLeft="@+id/button4"
+        android:layout_alignStart="@+id/button4" />
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

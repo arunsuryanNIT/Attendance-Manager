@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Training\\AndroidStudioProjects\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon.png",
+        "source": "E:\\Training\\AndroidStudioProjects\\AttendanceManager\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AttendanceManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon.png",
+        "source": "D:\\AndroidStudioProjects\\AttendanceManager\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    }
+]
